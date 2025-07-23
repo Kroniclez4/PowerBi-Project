@@ -6,7 +6,7 @@ This shows the use of PowerBi to analyze Maven Toy Store's overall sales perform
 ## Project Overview
 This analysis evaluates sales and inventory data from Maven Toy Store, a toy retail chain in Mexico. Using Microsoft Power BI, key insights were derived on product profitability, store performance, seasonal trends, and inventory management. Findings revealed that Toys and Electronics drive the highest profits, with Downtown stores performing best. Sales peak between March and July, while October sees the lowest revenue. Inventory analysis indicates stock will last 15-17 days.
 
-![image alt]()
+![image alt](https://github.com/Kroniclez4/PowerBi-Project/blob/b864f78842817d74cc3a443c668168c5d71028db/Dashboard%20Bi.PNG)
 
 ## Objectives
 The primary goal of this analysis is to generate actionable insights into Maven Toy Store's overall sales performance and profitability by evaluating: 
