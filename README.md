@@ -48,4 +48,4 @@ Importation Process: Data was ingested using Power BI’s Excel connector.
 ## Data Modeling 
 Effective data modeling structures raw data into an analytical framework, allowing seamless relationship-building between tables. In this project, Power BI automatically identified table relationships, forming a **star schema model**:
 
-![image alt]()
+![image alt](https://github.com/Kroniclez4/PowerBi-Project/blob/a467a5d3e33c6bbb115861c7816503e6b7a2b997/Schema%20Bi.PNG)
