@@ -43,5 +43,9 @@ Importation Process: Data was ingested using Power BI’s Excel connector.
 - Added calculated fields for total product cost, total product price, and profit in the sales dataset. 
 - Corrected data types to ensure consistency. 
 - Trimmed redundant store n- ames in the Stores Table for clarity. 
-- Created a Dates Table using CALENDARAUTO() to facilitate temporal analysis, extracting year
+- Created a Dates Table using CALENDARAUTO() to facilitate temporal analysis, extracting year, quarter, month, and day attributes.
 
+## Data Modeling 
+Effective data modeling structures raw data into an analytical framework, allowing seamless relationship-building between tables. In this project, Power BI automatically identified table relationships, forming a **star schema model**:
+
+![image alt]()
