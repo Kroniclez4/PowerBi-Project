@@ -62,6 +62,9 @@ Effective data modeling structures raw data into an analytical framework, allowi
 
 ![image alt](https://github.com/Kroniclez4/PowerBi-Project/blob/a467a5d3e33c6bbb115861c7816503e6b7a2b997/Schema%20Bi.PNG)
 
+1. Fact Table: Sales Table, Inventory
+2. Dimension Tables: Products, Stores, and Dates
+
 ## Key Insights
 
 ### Product Analysis 
@@ -89,9 +92,7 @@ Highest Profit-Generating Products:
   - Deck of Cards - 84K units
   - Magic Sand - 61K units
 
-1. Fact Table: Sales Table, Inventory
-2. Dimension Tables: Products, Stores, and Dates
-
+![image alt]()
 **Notably, Playdoh Can ranks high in sales volume but not in profitability.**
 
 ### Store & Location Analysis 
